@@ -8,6 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Table of contents](#table-of-contents)
     - [Screenshots](#screenshots)
     - [Links](#links)
+  - [My process](#my-process)
     - [Built with](#built-with)
   - [Author](#author)
 
@@ -28,6 +29,8 @@ Mobile View
 
 - Solution URL: [Solution URL](https://your-solution-url.com)
 - Live Site URL: [Live Site URL](https://travish-bot.github.io/qr-code-component-main/)
+
+## My process
 
 ### Built with
 
