@@ -53,3 +53,7 @@ h3 {
 h5 {
   color: var(--grayish-blue);
 }
+
+.attribution {
+  padding-top: 8em;
+}
